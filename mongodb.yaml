@@ -1,4 +1,4 @@
-- nname: mongodb configure
+- name: mongodb configure
   hosts: mongodb
   become: yes
   tasks:
